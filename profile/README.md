@@ -8,8 +8,6 @@ Welcome to **FortifyIR**, a powerful incident response case management applicati
 - **Third-Party Integrations:** Seamlessly integrate with tools like VirusTotal, AbuseIPDB, MISP, OpenCTI, and SIEM platforms such as Wazuh, Splunk, and Azure Sentinel.
 - **Entity Intelligence:** Perform real-time checks against external threat intel sources directly within incident details.
 - **Customizable Reporting:** Export incident data to CSV and PDF, with detailed reporting features tailored to your team's needs.
-- **Secure API Key Management:** Store sensitive credentials securely, ensuring that API keys and other integrations are protected.
-- **Multi-Account Deployment:** Deploy FortifyIR across separate AWS accounts per client, using AWS Control Tower for centralized management.
 
 ## Contact
 
