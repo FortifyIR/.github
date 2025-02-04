@@ -11,7 +11,7 @@ Welcome to **FortifyIR**, a powerful incident response case management applicati
 
 ## Contact
 
-For questions, support, or partnership inquiries, reach out to us at [hello@fortifyir.com](mailto:hello@fortifyir.com).
+For questions, support, or partnership inquiries, reach out to us at [hello@fortifyir.io](mailto:hello@fortifyir.io).
 
 ---
 
